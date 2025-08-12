@@ -2,6 +2,15 @@
 
 Minimal Angular 20 app demonstrating client-side navigation, API consumption with `HttpClient`, and a reactive-UX quiz, styled with Tailwind CSS.
 
+![Angular](https://img.shields.io/badge/Angular-20.1-red?logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38B2AC?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node-24.3-339933?logo=node.js&logoColor=white)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-Live-orange)](https://angular-ds6.pages.dev/)
+
+### Live URL
+- Deployed on Cloudflare Pages: https://angular-ds6.pages.dev/
+
 ### Features
 - **Routing**: `Home`, `API Data`, `Quiz` pages via Angular Router.
 - **API Data**: Simple, free dataset from `https://catfact.ninja/facts?limit=10`.
