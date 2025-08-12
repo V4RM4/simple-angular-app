@@ -1,0 +1,13 @@
+<nav class="sticky top-0 z-10 border-b bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60">
+  <div class="mx-auto max-w-5xl px-4">
+    <div class="flex h-12 items-center gap-6 text-sm">
+      <a routerLink="/" routerLinkActive="font-semibold text-blue-600" [routerLinkActiveOptions]="{ exact: true }" class="hover:text-blue-600">Home</a>
+      <a routerLink="/api" routerLinkActive="font-semibold text-blue-600" class="hover:text-blue-600">API Data</a>
+      <a routerLink="/form" routerLinkActive="font-semibold text-blue-600" class="hover:text-blue-600">Quiz</a>
+    </div>
+  </div>
+</nav>
+<div class="mx-auto max-w-5xl px-4 py-6">
+  <router-outlet></router-outlet>
+</div>
+

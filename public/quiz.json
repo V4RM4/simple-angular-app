@@ -1,0 +1,112 @@
+{
+  "categories": ["General", "Angular", "JavaScript"],
+  "questions": [
+    {
+      "id": 1,
+      "category": "General",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "General",
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Rome", "Berlin", "Madrid"],
+      "answerIndex": 0
+    },
+    {
+      "id": 3,
+      "category": "General",
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "General",
+      "question": "What is the common name for H2O?",
+      "options": ["Water", "Oxygen", "Hydrogen", "Helium"],
+      "answerIndex": 0
+    },
+    {
+      "id": 5,
+      "category": "General",
+      "question": "What is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Horse", "Antelope"],
+      "answerIndex": 0
+    },
+    {
+      "id": 6,
+      "category": "Angular",
+      "question": "Which Angular package provides client-side navigation?",
+      "options": ["@angular/forms", "@angular/router", "@angular/common", "@angular/platform-browser"],
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "Angular",
+      "question": "Which Angular service is used to make HTTP requests?",
+      "options": ["Router", "HttpClient", "NgZone", "Signal"],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "Angular",
+      "question": "Which decorator defines an Angular component?",
+      "options": ["@Component", "@Injectable", "@Directive", "@Pipe"],
+      "answerIndex": 0
+    },
+    {
+      "id": 9,
+      "category": "Angular",
+      "question": "Which CLI command generates a component?",
+      "options": ["ng new component", "ng generate component", "npm run component", "ng add component"],
+      "answerIndex": 1
+    },
+    {
+      "id": 10,
+      "category": "Angular",
+      "question": "Which directive binds navigation links?",
+      "options": ["ngLink", "routerLink", "href", "linkTo"],
+      "answerIndex": 1
+    },
+    {
+      "id": 11,
+      "category": "JavaScript",
+      "question": "What does the '===' operator check?",
+      "options": ["Value only", "Type only", "Value and type", "Reference only"],
+      "answerIndex": 2
+    },
+    {
+      "id": 12,
+      "category": "JavaScript",
+      "question": "Which method converts a JSON string to an object?",
+      "options": ["JSON.parse", "JSON.stringify", "toJSON", "parseInt"],
+      "answerIndex": 0
+    },
+    {
+      "id": 13,
+      "category": "JavaScript",
+      "question": "Which array method adds an item to the end?",
+      "options": ["push", "pop", "shift", "unshift"],
+      "answerIndex": 0
+    },
+    {
+      "id": 14,
+      "category": "JavaScript",
+      "question": "A constant declared with 'const' is:",
+      "options": ["function-scoped", "globally-scoped", "block-scoped", "reassignable"],
+      "answerIndex": 2
+    },
+    {
+      "id": 15,
+      "category": "JavaScript",
+      "question": "What is the result of typeof null?",
+      "options": ["null", "object", "undefined", "number"],
+      "answerIndex": 1
+    }
+  ]
+}
+
+
